@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSc student.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am an Electrical Engineer with a deep passion for understanding the intricate workings of our tech-driven society. My research primarily focuses on RF engineering, with key interests in:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- Satellite Communications
+- Antennas and Electromagnetic Propagation
+- Applications of Machine Learning in Wireless Communication
+- RF Power Amplifier Design & Linearization
+- Microwave Engineering in general
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned my BSc degree with honors from the American University of Sharjah in 2022, and I am currently pursuing my MSc at the same institution, with an anticipated graduation date in December 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Driven by a relentless curiosity, I am deeply committed to lifelong learning. The more I explore and discover, the more I realize the vastness of knowledge yet to be uncovered.
