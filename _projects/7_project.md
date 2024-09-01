@@ -5,7 +5,6 @@ description: One of my most pivotal projects, as it introduced me to the fascina
 img: assets/img/project 7.jpg
 importance: 1
 category: Msc. Projects
-
 ---
 
 <html lang="en">

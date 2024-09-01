@@ -68,11 +68,7 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "keywords": [
-        "Python Programming",
-        "MATLAB programming",
-        "Siemens TIA Portal for PLC programming"
-      ]
+      "keywords": ["Python Programming", "MATLAB programming", "Siemens TIA Portal for PLC programming"]
     },
     {
       "name": "Engineering Software",
@@ -90,54 +86,47 @@
     {
       "name": "Design of Class AB Power Amplifier",
       "summary": "Designed a Class AB Power amplifier for high-frequency applications using Keysight ADS.",
-      "url":"https://majid-0.github.io/projects"
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Pyramidical Horn Antenna Design",
       "summary": "Designed and verified the performance of a horn antenna for a 2.6-3.95 GHz frequency range using Ansys Electronics, followed by 3D printing to fabricate the antenna.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Automatic Modulation Classification",
       "summary": "Investigated the use of machine learning for automatic modulation classification for varying signal-to-noise ratios.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "2D Brain Tumor Segmentation",
       "summary": "Investigated the use of machine learning to segment brain tumor regions using 2D slices from multimodal MRI scans.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "2D FDTD Horn Antenna Simulation",
       "summary": "Developed a simplified electromagnetic simulation of a horn antenna.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Photovoltaic System Design",
       "summary": "Simulated the design of a buck-boost converter to implement an MPPT control algorithm.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Portable Amateur Satellite Ground-station",
       "summary": "Developed a software program that calculates satellite orbits, controls antenna rotator positioning, and interfaces with a software-defined radio (SDR) to receive satellite transmissions.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Microwave Non-destructive Testing for Food",
       "summary": "Studied how the dielectric properties of cold cuts change as spoilage occurs and designed a simplified proof of concept measurement setup to detect spoilage.",
-      "url":"https://majid-0.github.io/projects"
-
+      "url": "https://majid-0.github.io/projects"
     },
     {
       "name": "Design of a 4x4 Butler Matrix",
       "summary": "Designed a 4x4 Butler matrix for analog beamforming applications through electromagnetic simulations.",
-      "url":"https://majid-0.github.io/projects"
+      "url": "https://majid-0.github.io/projects"
     }
   ],
   "publications": [
@@ -153,8 +142,7 @@
       "publisher": "IEEE",
       "releaseDate": "2024-02",
       "summary": "Presented at the 2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC).",
-       "url": "https://ieeexplore.ieee.org/document/10463289"
-
+      "url": "https://ieeexplore.ieee.org/document/10463289"
     },
     {
       "name": "Power Amplifier Predistortion Using Reduced Sampling Rates in the Forward and Feedback Paths",
@@ -162,7 +150,6 @@
       "releaseDate": "2024-05",
       "summary": "Published in Sensors, Vol. 24, No. 11.",
       "url": "https://www.mdpi.com/1424-8220/24/11/3439"
-
     },
     {
       "name": "A Low-Cost Portable and Agile Amateur Satellites Ground-Station",
@@ -177,7 +164,6 @@
       "releaseDate": "2023-08",
       "summary": "Presented at the 2023 IEEE Symposium on Wireless Technology & Applications (ISWTA).",
       "url": "https://ieeexplore.ieee.org/document/10249275"
-
     }
   ],
   "languages": [
@@ -193,12 +179,7 @@
   "interests": [
     {
       "name": "Physics",
-      "keywords": [
-        "Quantum Mechanics",
-        "Astrophysics",
-        "Fusion Energy",
-        "Particle Physics"
-      ]
+      "keywords": ["Quantum Mechanics", "Astrophysics", "Fusion Energy", "Particle Physics"]
     },
     {
       "name": "Engineering",
@@ -219,5 +200,4 @@
       ]
     }
   ]
-
 }

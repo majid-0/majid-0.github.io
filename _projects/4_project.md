@@ -5,7 +5,6 @@ description: Another one of my favorite projects, which introduced me to the wor
 img: assets/img/project 4.gif
 importance: 2
 category: Msc. Projects
-
 ---
 
 <html lang="en">

@@ -6,7 +6,6 @@ img: assets/img/project 3.jpg
 # redirect: https://unsplash.com
 importance: 5
 category: Msc. Projects
-
 ---
 
 <html lang="en">

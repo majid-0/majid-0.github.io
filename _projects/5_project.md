@@ -5,7 +5,6 @@ description: One of the most practical projects I've worked on, as it introduced
 img: assets/img/project 5.jpg
 importance: 3
 category: Msc. Projects
-
 ---
 
 <html lang="en">

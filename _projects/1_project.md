@@ -6,7 +6,6 @@ img: assets/img/project 1.jpg
 importance: 1
 category: Bsc. Projects
 related_publications: false
-
 ---
 
 <html lang="en">
