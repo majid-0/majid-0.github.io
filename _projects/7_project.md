@@ -3,7 +3,7 @@ layout: page
 title: A 4x4 Butler Matrix
 description: One of my most pivotal projects, as it introduced me to the fascinating world of optimization algorithms for design automation.
 img: assets/img/project 7.jpg
-importance: 1
+importance: 2
 category: Msc. Projects
 ---
 

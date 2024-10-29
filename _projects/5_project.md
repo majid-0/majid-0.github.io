@@ -3,7 +3,7 @@ layout: page
 title: Load-Pull simulation of a class AB RF power amplifier
 description: One of the most practical projects I've worked on, as it introduced me to modeling without analytically defined equations.
 img: assets/img/project 5.jpg
-importance: 3
+importance: 4
 category: Msc. Projects
 ---
 

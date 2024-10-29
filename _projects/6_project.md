@@ -3,7 +3,7 @@ layout: page
 title: Multi-modal MRI-based brain tumor segmentation
 description: My favorite Machine Learning (ML) project, as it highlighted the critical role of computational power in training and deploying dense ML models.
 img: assets/img/project 6.jpg
-importance: 4
+importance: 5
 category: Msc. Projects
 ---
 

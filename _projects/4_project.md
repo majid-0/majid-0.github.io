@@ -3,7 +3,7 @@ layout: page
 title: A 2D Finite Difference Time Domain (FDTD) simulation of a horn antenna
 description: Another one of my favorite projects, which introduced me to the world of computational electromagnetics.
 img: assets/img/project 4.gif
-importance: 2
+importance: 3
 category: Msc. Projects
 ---
 

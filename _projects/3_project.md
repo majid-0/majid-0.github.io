@@ -4,7 +4,7 @@ title: Automatic Modulation Classification (AMC)
 description: Evaluation of three feature-based approaches for automatic modulation classification using CNN+GRU, HOCs, and joint recurrence plots.
 img: assets/img/project 3.jpg
 # redirect: https://unsplash.com
-importance: 5
+importance: 6
 category: Msc. Projects
 ---
 
