@@ -6,8 +6,8 @@ subtitle: MSc student.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_picture.jpg
+  image_circular: True # crops the image to make it circular
   more_info: >
 
 news: true # includes a list of news items

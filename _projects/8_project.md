@@ -9,7 +9,7 @@ category: Msc. Projects
 
 <html lang="en">
 <head>
-    <meta http-equiv="refresh" content="0; url=/assets/pdf/project 7.pdf" />
+    <meta http-equiv="refresh" content="0; url=/assets/img/project_8_egg.jpg" />
 </head>
 <body>
     <p>N/A</p>
